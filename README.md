@@ -14,6 +14,3 @@
 
 # Receber pacotes do GitHub
  - git pull
-
-
-@viniciusclima12-pixel
