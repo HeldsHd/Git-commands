@@ -11,3 +11,9 @@
 
 # Enviar pacotes ao GitHub
  - git push
+
+# Receber pacotes do GitHub
+ - git pull
+
+
+@viniciusclima12-pixel
