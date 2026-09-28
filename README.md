@@ -23,3 +23,5 @@
  # Adicionar comando de branch 
   - Criar uma nova branch "git branch \<nome\>"
   - Mudar de branch "git checkout \<nome\>"
+
+  ![image](imgs/92686115d832994795467a7ac91478ef.jpg)
